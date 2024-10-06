@@ -1,3 +1,3 @@
-- 🛠️ Building and tinkering with circuits, one wire at a time.
-- 🐧 "Smile and wire, boys. Smile and wire." – Skipper
-- ⚡ No plan, no backup, no choice. Just keep wiring!
+- 🛠️ Building and tinkering with circuits, one wire at a time
+- 🐧 "Smile and wire, boys. Smile and wire" – Skipper
+- ⚡ No plan, no backup, no choice. Just gonna keep wiring.
